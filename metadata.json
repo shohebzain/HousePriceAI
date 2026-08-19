@@ -1,0 +1,6 @@
+{
+  "name": "House Price Prediction System",
+  "description": "End-to-end Machine Learning House Price Prediction System with Data Preprocessing, EDA Studio, Multi-Model Regression Comparison, Feature Importance, and Real-time Valuation Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
