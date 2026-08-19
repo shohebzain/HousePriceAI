@@ -16,7 +16,7 @@ The project covers the complete ML workflow, from **data preprocessing and explo
 * 🌐 **Interactive Prediction Interface**
 * 🔌 **Prediction API**
 * 📱 **Responsive User Interface**
-* ✅ **Input Validation & Error Handling**
+* ✅ **Input Validation & Error Handling** 
 
 ---
 
