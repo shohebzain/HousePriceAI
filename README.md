@@ -4,8 +4,6 @@
 
 The project covers the complete ML workflow, from **data preprocessing and exploratory data analysis to model training, evaluation, and real-time price prediction**.
 
----
-
 ## 🚀 Features
 
 * 📊 **Data Cleaning & Preprocessing**
