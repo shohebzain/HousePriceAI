@@ -9,7 +9,7 @@ import { EDAStudio } from './components/EDAStudio';
 import { ModelEvaluationLab } from './components/ModelEvaluationLab';
 import { DataPipelineView } from './components/DataPipelineView';
 import { PythonCodeViewer } from './components/PythonCodeViewer';
-import {
+import { 
   PropertyFeatures,
   ModelAlgorithm,
   PredictionOutput,
