@@ -3,7 +3,7 @@ export type LocationType =
   | 'Tech Corridor'
   | 'Waterfront Bay'
   | 'Suburb Heights'
-  | 'University District'
+  | 'University District' 
   | 'Green Hills'
   | 'Metro Central'
   | 'Historic Old Town';
